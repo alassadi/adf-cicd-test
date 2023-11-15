@@ -1,0 +1,9 @@
+{
+	"name": "dp203-df-test",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "851008e8-fc09-4fb8-a5a2-060ae34b7533",
+		"tenantId": "b0115a0b-6189-46ee-8c8a-8391796cf725"
+	}
+}
